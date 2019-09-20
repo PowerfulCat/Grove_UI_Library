@@ -1,0 +1,7 @@
+[submodule "Seeed_Arduino_FS"]
+	path = Seeed_Arduino_FS
+	url = https://github.com/Seeed-Studio/Seeed_Arduino_FS.git
+	branch = dev
+[submodule "Seeed_Arduino_LCD"]
+	path = Seeed_Arduino_LCD
+	url = https://github.com/Seeed-Studio/Seeed_Arduino_LCD.git
